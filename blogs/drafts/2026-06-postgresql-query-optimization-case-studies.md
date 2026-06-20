@@ -1,4 +1,4 @@
-# Optimizing Query Execution in PostgreSQL
+# PostgreSQL Query Optimization: Lessons from Production
 
 Efficient query execution is critical for maintaining the performance and responsiveness of database applications. This guide covers key strategies for query optimization, focusing on the use of B-tree and GIN indexes, and walks through case studies showing the impact of these optimizations on real queries.
 
