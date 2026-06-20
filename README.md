@@ -31,6 +31,7 @@ This repository contains:
 | Date | Title |
 |--------|--------|
 | June 2026 | Managing Personal and Organization GitHub Accounts on the Same Laptop |
+| June 2026 | PostgreSQL Query Optimization: Case Studies ||
 
 
 ## About Me
